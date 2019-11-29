@@ -1,0 +1,9 @@
+{
+	"level":[
+		{
+			"water_max":25,
+			"life_max":25,
+			"speed":5
+		}
+	]
+}
